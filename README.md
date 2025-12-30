@@ -14,3 +14,10 @@ This repo demonstrates basic skills in:
 - Reading CSV files
 - Data inspection
 - Simple data analysis
+
+*Student Performance Analysis
+
+This project demonstrates basic data analysis on a real dataset of student marks and attendance. It includes:
+
+- `STUDENT_DATASET.csv` - real dataset  
+- `student_analysis.py` - loads the data, inspects it, and calculates basic statistics like average, highest, and lowest marks, and average percentage.
